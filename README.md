@@ -4,8 +4,6 @@ This repo contains a reduced case Android Studio project.
 
 It demonstrates a disconnect failure with an attempted SweetBlue implementation.
 
-The SweetBlue Toolbox app is able to cycle through discovery > connect > disconnect > discovery > connect, etc as expected.
-
 The implementation in this repo reliably fails to complete this cycle more than a few times.
 
 Tested with Nexus 5, Android 6.0.1, Polar HR monitor.
